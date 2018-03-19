@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Primes
+comment1.params=n
+comment1.target=boolean\ isPrime1(int)
+comment1.text=\n\ Determine\ if\ an\ int\ is\ prime.\n\ \n\ @param\ n\ \ \ \ \ number\ to\ test\n\ @return\ \ \ \ \ \ true\ if\ number\ is\ prime,\ false\ otherwise\n
+comment2.params=n
+comment2.target=boolean\ isPrime2(int)
+comment2.text=\n\ A\ more\ efficient\ way\ to\ determine\ if\ an\ int\ is\ prime.\n\ \n\ @param\ n\ \ \ \ \ number\ to\ test\n\ @return\ \ \ \ \ \ true\ if\ number\ is\ prime,\ false\ otherwise\n
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+comment4.params=
+comment4.target=void\ first50()
+comment5.params=n
+comment5.target=int\ nthPrime(int)
+comment6.params=start\ end
+comment6.target=int\ countPrime(int,\ int)
+comment7.params=end
+comment7.target=long\ sumPrime(int)
+comment8.params=end
+comment8.target=long\ sumFirstPrime(int)
+numComments=9
